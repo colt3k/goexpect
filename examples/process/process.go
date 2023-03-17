@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"time"
 
+	expect "github.com/colt3k/goexpect"
 	"github.com/golang/glog"
-	expect "github.com/google/goexpect"
 	"github.com/google/goterm/term"
 )
 
